@@ -25,6 +25,6 @@ eliza = Person("Eliza", datetime.date(1990, 3, 22), "Arch Linux")
 print(imran.name)
 print(imran.is_adult())  # True - Imran is 22
  
-print(eliza.name)
+print(eliza.name) 
 print(eliza.is_adult())  # True - Eliza is 34
  
